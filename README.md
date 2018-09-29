@@ -1,3 +1,4 @@
+fork自kaonashi-tyc，用于自己的代码研习与注释
 # zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks
 
 [![Insight.io](https://insight.io/repoBadge/github.com/kaonashi-tyc/zi2zi)](https://insight.io/github.com/kaonashi-tyc/zi2zi)
